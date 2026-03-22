@@ -1,15 +1,15 @@
 ## Hi there 👋
  <br/>  
 
- 🔭 I’m currently working on personal React projects.
+ * I’m currently working on personal React projects.
  <br/>  
- 🌱 Learning Python
+* Learning Python
   <br/>  
- 😄 Just learnt some basics in C
+ * Just learnt some basics in C
   <br/>  
- 👯 Comfortable with HTML, CSS, JS, TypeScript, React.
+  * Comfortable with HTML, CSS, JS, TypeScript, React.
   <br/>  
- 🔭 Arduino and robotics on my radar
+ * Arduino and robotics on my radar
  
 <!--
 **hhana-1/hhana-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

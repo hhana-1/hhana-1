@@ -2,13 +2,13 @@
  <br/>  
 
  * I’m currently working on personal React projects.
- <br/>  
+
 * Learning Python
-  <br/>  
+
  * Just learnt some basics in C
-  <br/>  
+
   * Comfortable with HTML, CSS, JS, TypeScript, React.
-  <br/>  
+ 
  * Arduino and robotics on my radar
  
 <!--

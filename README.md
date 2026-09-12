@@ -1,15 +1,12 @@
 ## Hi there 👋
  <br/>  
 
- * I’m currently working on personal React projects.
+* I’m currently working on personal React projects.
 
-* Learning Python
+* Learning Python and C at CODAM (42 network Amstedam school)
 
- * Just learnt some basics in C
-
-  * Comfortable with HTML, CSS, JS, TypeScript, React.
+* Experience with HTML, CSS, JS, TypeScript, React. (pre-AI era)
  
- * Arduino and robotics on my radar
    
 ![Top Languages](https://github-readme-stats-seven-neon-51.vercel.app/api/top-langs/?username=hhana-1&layout=compact&theme=tokyonight)
 <!--

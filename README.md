@@ -11,8 +11,6 @@
  
  * Arduino and robotics on my radar
    
-![GitHub Stats](https://github-readme-stats-seven-neon-51.vercel.app/api?username=hhana-1&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats-seven-neon-51.vercel.app/api/top-langs/?username=hhana-1&layout=compact&theme=tokyonight)
 <!--
 **hhana-1/hhana-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
